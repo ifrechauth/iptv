@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,STV 1
-https://iframe.dacast.com/b/110258/c/473466
-#EXTINF:-1,STV 2
+#EXTINF:-1,STV Noticias
+https://iframe.dacast.com/b/110258/c/512787
+#EXTINF:-1,STV
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+#EXTINF:-1,SFM
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@653093/master.m3u8
