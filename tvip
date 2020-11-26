@@ -7,4 +7,5 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@653093/master.m3u8
 #EXTINF:-1,Eventos
 http://dcunilive260-lh.akamaihd.net/i/dclive_1@198706/master.m3u8
-
+#EXTINF:-1,NEXSMART
+http://mu02.cularu.com:8880/get.php?username=yw6m433&password=jhMLL9Ce2b&type=m3u_plus&output=mpegts
